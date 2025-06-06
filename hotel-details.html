@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VirtualWinTrack.com</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="home.html" class="logo">VirtualWinTrack.com</a>
+            <nav>
+                <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="ideas.html">Ideas for Holidays</a></li>
+                    <li><a href="privacy.html">Privacy Policy</a></li>
+                    <li><a href="terms.html">Terms of Use</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="hotel-details-page">
+        <div id="hotel-showcase-container" class="container">
+            <!-- Hotel name and main image will be loaded here -->
+            <p class="loading-message">Loading hotel showcase...</p>
+        </div>
+
+        <div class="hotel-content-wrapper container">
+            <div id="hotel-gallery-description-container" class="hotel-gallery-description-grid">
+                <aside id="hotel-gallery-aside">
+                    <!-- Gallery thumbnails will be loaded here -->
+                    <p class="loading-message">Loading gallery...</p>
+                </aside>
+                <article id="hotel-description-main">
+                    <!-- Full description will be loaded here -->
+                    <p class="loading-message">Loading description...</p>
+                </article>
+            </div>
+        </div>
+
+        <section id="hotel-events-section" class="container">
+            <h2>Events at this Hotel</h2>
+            <div id="events-list-container" class="events-grid-details">
+                <!-- Events list will be loaded here by JavaScript -->
+                <p class="loading-message">Loading events...</p>
+            </div>
+        </section>
+    </main>
+
+    <div id="event-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-body">
+                <!-- Event details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> VirtualWinTrack.com Pty Ltd. All rights reserved.</p>
+            <p>100 Gaming Street, Sydney NSW 2000, Australia</p>
+            <nav>
+                <ul class="footer-links">
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="ideas.html">Ideas for Holidays</a></li>
+                    <li><a href="privacy.html">Privacy Policy</a></li>
+                    <li><a href="terms.html">Terms of Use</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+    <script src="js/script.js" defer></script>
+</body>
+</html>

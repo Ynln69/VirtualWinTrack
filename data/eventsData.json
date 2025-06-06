@@ -1,0 +1,66 @@
+{
+  "1": [
+    {
+      "id": "evt101",
+      "name": "SkyCity Adelaide Poker Series",
+      "date": "2025-09-10",
+      "description": "A high-stakes poker tournament at one of Adelaide’s finest venues.",
+      "fullDescription": "Join top poker talent at SkyCity Adelaide for the annual Poker Series, featuring a full schedule of No Limit Hold'em, Omaha tournaments, and a signature High Roller event with a massive prize pool. Daily satellites, player parties, and VIP lounge access make this a must-attend for poker enthusiasts. The historic setting of SkyCity, paired with luxury accommodation and fine dining, provides an unmatched poker experience in the heart of Adelaide."
+    },
+    {
+      "id": "evt102",
+      "name": "Adelaide Gaming & Tech Expo",
+      "date": "2025-10-15",
+      "description": "Showcasing the future of gaming and technology at SkyCity Adelaide.",
+      "fullDescription": "Experience the cutting-edge of gaming and tech at the Adelaide Gaming & Tech Expo hosted at SkyCity Adelaide. Explore the latest consoles, VR innovations, and indie game showcases. Attendees can compete in tournaments for popular games like Fortnite and FIFA, attend developer keynotes, and participate in cosplay competitions. SkyCity’s premium event space ensures an immersive experience, while guests enjoy gourmet dining and access to exclusive networking lounges."
+    }
+  ],
+  "2": [
+    {
+      "id": "evt201",
+      "name": "Hobart eSports Invitational",
+      "date": "2025-11-20",
+      "description": "Top eSports teams face off in a unique waterfront setting at Wrest Point.",
+      "fullDescription": "The Hobart eSports Invitational, held at Wrest Point Hotel Casino, features elite gaming teams from Australia and New Zealand competing in Valorant, CS2, and Rocket League. Watch live tournaments in a stunning waterfront venue, explore VR exhibitions, and join developer panels. Guests can enjoy fan meetups, gaming gear giveaways, and esports-focused afterparties. VIP ticket holders get premium seating, private gaming sessions, and exclusive access to player lounges overlooking the Derwent River."
+    },
+    {
+      "id": "evt202",
+      "name": "Hobart Lights Music Festival",
+      "date": "2025-12-15",
+      "description": "A festival of music, lights, and gaming entertainment at Wrest Point.",
+      "fullDescription": "Combining the best of music and gaming, the Hobart Lights Music Festival at Wrest Point features live performances by top DJs, spectacular waterfront light shows, and interactive gaming installations. Families and fans can enjoy pop-up gaming arcades, food trucks, VR zones, and workshops in game design and tech innovation. The iconic Wrest Point Tower offers panoramic views and exclusive rooftop parties for premium ticket holders."
+    }
+  ],
+  "3": [
+    {
+      "id": "evt301",
+      "name": "Townsville Poker Open",
+      "date": "2025-07-25",
+      "description": "A premier poker tournament at The Ville Resort-Casino.",
+      "fullDescription": "Hosted at The Ville Resort-Casino, the Townsville Poker Open draws poker professionals and amateurs alike for a week of thrilling tournaments. Events include No Limit Hold'em, Pot Limit Omaha, and the highly anticipated Main Event. Enjoy live commentary, coaching sessions with poker pros, and luxury hospitality packages including spa access and beachfront accommodation. After-hours player parties and daily satellite tournaments round out this unforgettable poker festival."
+    },
+    {
+      "id": "evt302",
+      "name": "Townsville GameCon",
+      "date": "2025-08-20",
+      "description": "Gaming, tech, and cosplay come together at The Ville Resort-Casino.",
+      "fullDescription": "Townsville GameCon transforms The Ville Resort-Casino into a gaming paradise, with tournaments for Fortnite, League of Legends, and Dota 2, a VR gaming zone, indie developer showcases, and retro arcades. Visitors can enjoy live-streamed finals, cosplay contests, and meet-and-greets with gaming influencers. Family-friendly areas, gaming merchandise vendors, and late-night gaming parties ensure a packed agenda. VIP guests enjoy beachfront gala dinners and exclusive access to afterparties."
+    }
+  ],
+  "4": [
+    {
+      "id": "evt401",
+      "name": "Canberra eSports Championship",
+      "date": "2025-08-01",
+      "description": "Australia’s capital hosts an elite eSports showdown at Casino Canberra.",
+      "fullDescription": "The Canberra eSports Championship brings top players to Casino Canberra to compete in FIFA 25, Apex Legends, and Counter-Strike 2. The tournament features live broadcasts, interactive fan experiences, and VR gaming zones. Enjoy Q&A sessions with pro gamers, explore gaming startups at the tech pavilion, and participate in friendly competitions. Casino Canberra’s boutique setting ensures a more intimate experience, ideal for players and fans seeking close-up eSports action."
+    },
+    {
+      "id": "evt402",
+      "name": "Capital Indie Game Expo",
+      "date": "2025-09-30",
+      "description": "Celebrating innovation and creativity in indie gaming at Casino Canberra.",
+      "fullDescription": "The Capital Indie Game Expo at Casino Canberra celebrates the brightest talent in independent game development. Discover new titles, join panel discussions with developers, and attend workshops on game design, storytelling, and publishing. The expo features VR/AR demonstrations, a student project showcase, and live gameplay tournaments. Awards for best indie game and audience choice are presented at the closing gala. Casino Canberra’s intimate venues offer a perfect backdrop for this innovation-focused event."
+    }
+  ]
+}

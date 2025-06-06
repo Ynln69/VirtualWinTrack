@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "SkyCity Adelaide",
+    "photo": "./images/hotels/hotelAdelaide1.jpg",
+    "description": "Boutique casino and luxury hotel in the heart of Adelaide, offering fine dining, gaming, and entertainment.",
+    "fullDescription": "SkyCity Adelaide is a stylish casino and hotel located in Adelaide's iconic heritage-listed Railway Station building. Following a massive renovation, it features a boutique hotel with luxury suites, over 100 gaming tables, and hundreds of the latest slot machines. SkyCity regularly hosts poker tournaments, private gaming events, and live entertainment shows. Fine dining is available at award-winning restaurants like Sean’s Kitchen and Madame Hanoi. The venue also includes high-end event spaces ideal for gaming exhibitions, private tournaments, and tech showcases, offering a sophisticated yet vibrant entertainment experience."
+    ,
+    "gallery": [
+      "./images/hotels/hotelAdelaide2.jpg",
+      "./images/hotels/hotelAdelaide3.jpg",
+      "./images/hotels/hotelAdelaide4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wrest Point Hotel Casino",
+    "photo": "./images/hotels/hotelWrest1.jpg",
+    "description": "Australia’s first casino with stunning waterfront views, offering classic gaming and entertainment in Hobart.",
+    "fullDescription": "Wrest Point Hotel Casino, located on the shores of the River Derwent in Hobart, Tasmania, is Australia's first legal casino. This historic venue combines traditional gaming with modern hospitality, featuring table games like blackjack and roulette, poker tournaments, and a range of electronic gaming machines. The hotel offers panoramic waterfront views, multiple restaurants, and live music venues. Wrest Point hosts smaller-scale gaming events, local poker tournaments, and eSports viewing parties, making it a cozy yet exciting destination for gamers and travelers alike."
+    ,
+    "gallery": [
+      "./images/hotels/hotelWrest2.jpg",
+      "./images/hotels/hotelWrest3.jpg",
+      "./images/hotels/hotelWrest4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Ville Resort-Casino",
+    "photo": "./images/hotels/hotelVille1.jpg",
+    "description": "A modern resort and boutique casino in Townsville with beachfront luxury and vibrant entertainment.",
+    "fullDescription": "The Ville Resort-Casino in Townsville, Queensland, offers a boutique gaming experience with stunning ocean views. Featuring a selection of gaming tables and modern slot machines, The Ville is a hotspot for local poker tournaments and themed casino nights. The resort also boasts a tropical pool deck, multiple restaurants, and a luxurious day spa. Regularly hosting gaming nights, live entertainment, and summer gaming festivals, The Ville provides an intimate yet lively atmosphere perfect for gamers and vacationers seeking a mix of relaxation and excitement."
+    ,
+    "gallery": [
+      "./images/hotels/hotelVille2.jpg",
+      "./images/hotels/hotelVille3.jpg",
+      "./images/hotels/hotelVille4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Casino Canberra",
+    "photo": "./images/hotels/hotelCanberra1.jpg",
+    "description": "A boutique casino in Australia’s capital, focused on table games and exclusive gaming events.",
+    "fullDescription": "Casino Canberra offers a unique gaming experience in the heart of Australia's capital city. Unlike other casinos, it specializes in table games and does not operate slot machines, focusing on classics like blackjack, baccarat, and poker. The venue hosts regular poker tournaments, private gaming nights, and exclusive corporate gaming events. Its boutique size makes it ideal for intimate tournaments and niche gaming expos. Casino Canberra is complemented by a selection of premium restaurants and lounges, offering a refined gaming experience in a relaxed and sophisticated environment."
+    ,
+    "gallery": [
+      "./images/hotels/hotelCanberra2.jpg",
+      "./images/hotels/hotelCanberra3.jpg",
+      "./images/hotels/hotelCanberra4.jpg"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "promo1",
+    "title": "eSports Extravaganza Package",
+    "image": "/placeholder.svg?width=600&height=400",
+    "description": "Get front-row seats to major eSports tournaments, plus exclusive merch and hotel stay discounts. Perfect for the ultimate fan experience.",
+    "fullDescription": "Dive into the heart of competitive gaming with the eSports Extravaganza Package at The Star Sydney. Enjoy premium accommodation just steps away from the action at the Star Sydney eSports Invitational, where top-tier teams battle live. The package includes front-row seating at the tournament arena, exclusive access to player meet-and-greet sessions, a bundle of official event merchandise, and discounted stays at The Star Grand Hotel. Additional perks include access to private lounges, gaming expos, and interactive VR zones. Perfect for hardcore eSports fans and gamers who want the ultimate immersive experience during one of Australia's premier gaming tournaments.",
+    "hotelLogo": "/placeholder.svg?width=100&height=50",
+    "link": "hotel-details.html?hotelId=2"
+  },
+  {
+    "id": "promo2",
+    "title": "Luxury Poker Holiday",
+    "image": "/placeholder.svg?width=600&height=400",
+    "description": "Indulge in a premium poker experience with our all-inclusive package: luxury suite, private table access, and gourmet dining.",
+    "fullDescription": "Experience world-class poker at its finest with the Luxury Poker Holiday package at Crown Melbourne. This all-inclusive offer grants you a luxurious stay in Crown Towers' premium suites, priority entry to the Aussie Millions Poker Championship events, and access to private poker rooms reserved for VIP guests. Relish fine dining at award-winning restaurants, exclusive invitations to player galas, and access to pre-event strategy workshops hosted by poker legends. Round off your stay with spa treatments and premium lounge services for the ultimate combination of luxury and high-stakes excitement.",
+    "hotelLogo": "/placeholder.svg?width=100&height=50",
+    "link": "hotel-details.html?hotelId=1"
+  },
+  {
+    "id": "promo3",
+    "title": "Weekend Gamer Getaway",
+    "image": "/placeholder.svg?width=600&height=400",
+    "description": "Escape for a weekend of non-stop gaming action. Includes bonus casino credits and complimentary breakfast.",
+    "fullDescription": "Level up your weekend with the Weekend Gamer Getaway at The Star Gold Coast. This package is your ticket to Gold Coast GameCon — Australia’s vibrant gaming convention featuring tournaments, tech showcases, and cosplay contests. Enjoy deluxe accommodation, daily complimentary breakfast, bonus casino credits, and fast-track access to major gaming competitions and VR demos. Relax in the evenings with luxury spa facilities or unwind at beachfront lounges. Whether you’re competing or just spectating, this getaway is crafted for gamers who want action-packed days and premium comfort at night.",
+    "hotelLogo": "/placeholder.svg?width=100&height=50",
+    "link": "hotel-details.html?hotelId=3"
+  },
+  {
+    "id": "promo4",
+    "title": "Tech Innovator's Gaming Retreat",
+    "image": "/placeholder.svg?width=600&height=400",
+    "description": "Stay at the cutting edge with access to the latest gaming tech, VR experiences, and workshops at Digital Frontier Lodge.",
+    "fullDescription": "Push the boundaries of gaming innovation with the Tech Innovator’s Gaming Retreat at Crown Perth. Stay in premium accommodation during the Perth Indie Game Festival and the Crown Perth eSports Championship. Gain exclusive access to VR showcases, indie developer expos, tech workshops, and panels featuring industry leaders. Explore the latest advances in gaming technology and network with developers and tech enthusiasts. This package includes early event access, complimentary gourmet breakfasts, VIP seating at tournaments, and an exclusive festival merch pack. Ideal for tech-savvy travelers and gaming industry professionals.",
+    "hotelLogo": "/placeholder.svg?width=100&height=50",
+    "link": "hotel-details.html?hotelId=4"
+  },
+  {
+    "id": "promo5",
+    "title": "Family Fun & Games Package",
+    "image": "/placeholder.svg?width=600&height=400",
+    "description": "Bring the whole family for a fun-filled holiday with access to arcades, family-friendly shows, and spacious rooms.",
+    "fullDescription": "Create lasting memories with the Family Fun & Games Package at Crown Melbourne. This family-friendly offer features spacious connecting rooms, daily breakfast, and free entry to the Melbourne Gaming Expo's family zone. Kids can enjoy interactive gaming areas, arcade tournaments, VR adventures, and creative workshops, while parents relax with spa discounts or shop at the Crown complex’s boutique stores. Special family passes to live entertainment shows and access to gaming exhibitions ensure entertainment for guests of all ages. A perfect holiday choice combining fun, comfort, and excitement for the whole family.",
+    "hotelLogo": "/placeholder.svg?width=100&height=50"
+  }
+]
