@@ -1,42 +1,42 @@
 {
   "aboutUs": {
-    "title": "About PlayCoreDrive",
+    "title": "About VirtualWinTrack.com",
     "paragraphs": [
-      "<strong>PlayCoreDrive.com</strong> was born from a passion for gaming and a desire to simplify the search for the perfect casino hotel experience. We understand that finding the ideal blend of luxurious accommodation, thrilling gaming options, and vibrant events can be a challenge. That's why we've dedicated ourselves to creating a comprehensive, user-friendly platform that puts all this information at your fingertips.",
+      "<strong>VirtualWinTrack.com</strong> was born from a passion for gaming and a desire to simplify the search for the perfect casino hotel experience. We understand that finding the ideal blend of luxurious accommodation, thrilling gaming options, and vibrant events can be a challenge. That's why we've dedicated ourselves to creating a comprehensive, user-friendly platform that puts all this information at your fingertips.",
       "Our <strong>mission</strong> is to be your most trusted companion in discovering and planning your next gaming adventure. We meticulously research and curate a selection of premier casino hotels worldwide, focusing on those renowned for hosting significant gaming events—from high-stakes poker tournaments to cutting-edge esports competitions. We believe a great gaming journey is about more than just the games; it's about the atmosphere, the amenities, the service, and the overall experience.",
-      "At PlayCoreDrive, we are committed to providing up-to-date data, insightful descriptions, and easy navigation so you can make informed decisions. Whether you're a seasoned high-roller, a casual player looking for a fun weekend, or an esports enthusiast following your favorite teams, our platform is designed to cater to your unique needs. Join us in exploring the vibrant world of casino entertainment, and let PlayCoreDrive guide you to your next unforgettable experience of play, core, and drive."
+      "At VirtualWinTrack.com, we are committed to providing up-to-date data, insightful descriptions, and easy navigation so you can make informed decisions. Whether you're a seasoned high-roller, a casual player looking for a fun weekend, or an esports enthusiast following your favorite teams, our platform is designed to cater to your unique needs. Join us in exploring the vibrant world of casino entertainment, and let VirtualWinTrack.com guide you to your next unforgettable experience of play, core, and drive."
     ]
   },
   "whyChooseUs": {
     "title": "Why Choose Us?",
     "items": [
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon1.png",
         "title": "Curated Selection",
         "description": "A carefully selected list of the best casino hotels and event venues."
       },
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon2.png",
         "title": "Event Focused",
         "description": "Special attention to hotels that host major gaming and esports tournaments."
       },
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon3.png",
         "title": "Up-to-Date Info",
         "description": "We strive to keep our listings and event details current and accurate."
       },
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon4.png",
         "title": "User-Friendly",
         "description": "Simple, intuitive navigation to find the information you need, fast."
       },
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon5.png",
         "title": "No Distractions",
         "description": "A clean design with no trackers or unnecessary pop-ups. Just information."
       },
       {
-        "icon": "/placeholder.svg?width=60&height=60",
+        "icon": "./images/icons/WhyIcon6.png",
         "title": "Passion Driven",
         "description": "Developed by gaming enthusiasts, for gaming enthusiasts."
       }
@@ -46,7 +46,7 @@
     "title": "Frequently Asked Questions (FAQ)",
     "items": [
       {
-        "question": "Is PlayCoreDrive.com free to use?",
+        "question": "Is VirtualWinTrack.com free to use?",
         "answer": "Yes, our platform is completely free for all users. We are committed to providing valuable information without any subscription fees."
       },
       {
@@ -58,8 +58,8 @@
         "answer": "We do our best to provide the most current information. However, event details can sometimes change. We always recommend checking directly with the hotel or event organizer for final confirmation."
       },
       {
-        "question": "Can I book hotels or event tickets through PlayCoreDrive.com?",
-        "answer": "Currently, PlayCoreDrive.com is an informational platform. We provide details and often links to the official hotel or event pages where you can make bookings. We do not handle reservations directly."
+        "question": "Can I book hotels or event tickets through VirtualWinTrack.com?",
+        "answer": "Currently, VirtualWinTrack.com is an informational platform. We provide details and often links to the official hotel or event pages where you can make bookings. We do not handle reservations directly."
       },
       {
         "question": "How often is the information on the site updated?",
